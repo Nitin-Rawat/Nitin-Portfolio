@@ -8,34 +8,28 @@ import { useEffect, useRef } from "react";
 
 export const projects = [
   {
-    title: "3D-CHAT-BOT",
-    url: "#",
-    image: "projects/3D-bot.png",
-    description: "This is a 3D-chatBot(Under Development)",
+    title: "NEUERA",
+    url: "https://neuera.in/",
+    image: "projects/neuera.png",
+    description: "Neuera - A high-performance web development and AI-ready services agency",
   },
   {
-    title: "PORTFOLIO ",
-    url: "#",
-    image: "projects/Nitin_portfolio.png",
-    description: "My Portfolio Built in R3f",
+    title: "NEUERA",
+    url: "https://www.navnerds.com/",
+    image: "projects/navnerds.png",
+    description: "Neuera - A business solution partner",
   },
   {
-    title: "LEXI",
-    url: "",
-    image: "projects/LEXI.png",
-    description: "A chat bot powered by local server",
+    title: "CRM",
+    url: "https://neuera-customer-management.vercel.app/",
+    image: "projects/neuera_crm.png",
+    description: "A test Project on Customer Management System",
   },
   {
     title: "SALES-DASHBOARD",
-    url: "https://nitin-rawat.github.io/SalesDashboard/",
+    url: "https://nitin-rawat.github.io/Sales-Dashboard/",
     image: "projects/Sales_Dashboard.png",
-    description: "Sales-Dashboard with item add/remove .etc functions",
-  },
-  {
-    title: "OLD PORTFOLIO",
-    url: "https://nitin-rawat.github.io/Portfolio",
-    image: "projects/P1.png",
-    description: "This is my Old Portfolio",
+    description: "A test Project on Sales Dashboard ",
   },
 ];
 
